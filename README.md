@@ -15,15 +15,12 @@ Welcome to my GitHub profile! I'm a MERN stack developer with a passion for crea
 - **Others**: Git, GitHub, JWT Authentication, Render
 
 ## 🌟 Featured Projects
-- **Quiz Builder App**: Build and share quizzes effortlessly with detailed analytics. [View Project](#)
-- **Web Story Platform**: Engaging platform for viewing and interacting with web stories. [View Project](#)
-- **Project Management App**: Manage tasks efficiently with boards, drag-and-drop functionality, and more. [View Project](#)
-- **Amazon & Pinterest Clones**: Frontend replicas showcasing design and development skills. [View Project](#)
+- **Quiz Builder App**: Build and share quizzes effortlessly with detailed analytics. [View Project](#https://github.com/MrShipalkar/Quiz-Builder-App)
+- **Web Story Platform**: Engaging platform for viewing and interacting with web stories. [View Project](#https://github.com/MrShipalkar/web-Story-Portal)
+- **Project Management App**: Manage tasks efficiently with boards, drag-and-drop functionality, and more. [View Project](#https://github.com/MrShipalkar/Project-Management-App)
 
 ## 🔗 Let's Get in Touch
-- 📧 Email: [your email here]
-- 💼 LinkedIn: [your LinkedIn profile link]
-- 🌍 Instagram (Bike Page): [your bike page link]
-- 🌐 Portfolio: [your portfolio link]
+- 📧 Email: ashwinshipalkar1@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/ashwin-shipalkar
 
 Feel free to explore my work, and don’t hesitate to reach out if you’re interested in collaborating or discussing exciting ideas!
